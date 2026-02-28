@@ -15,10 +15,26 @@ Durante el laboratorio se trabajan temas como:
 - Control de tráfico usando ACLs
 - Implementación de servicios de red como DNS, HTTP y HSRP
 
+## Recursos del curso
+
+#### Repositorios
+
+1. [Repositorio Redes de Computadoras 1 (1)](https://github.com/Tiwue/Ejemplos-Redes1-2025?authuser=0)
+2. [Repositorio Redes de Computadoras 1 (2)](https://github.com/fsquijada/LAB_REDES1_1S_2025?authuser=0)
+3. [Repositorio Redes de Computadoras 2](https://github.com/rodrigo-rodas-126/REDES2-1S-2025?authuser=0)
+
+#### Enlaces varios
+
+1. [Diagrama de flujo para la resolución de proyectos](/assets/Diagrama%20para%20la%20resolución%20de%20proyectos.png)
+2. [Tabla CIDR](/assets/Tabla_CIDR.png)
+3. [Calculadora FLSM/VLSM](https://arcadio.gq/index.html)
+
 ---
 
 ## Información del Tutor
 
-**Nombre:** _Angel Samuel González Velásquez_
-**Carnet:** _202200263_
-**Correo electrónico:** *3302411331202@ingenieria.usac.edu.gt*
+|                        | **Información**                                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------- |
+| **Nombre**             | Angel Samuel González Velásquez                                                     |
+| **Carnet**             | 202200263                                                                           |
+| **Correo electrónico** | [3302411331202@ingenieria.usac.edu.gt](mailto:3302411331202@ingenieria.usac.edu.gt) |
