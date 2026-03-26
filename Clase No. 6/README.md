@@ -37,7 +37,6 @@ La topología integra conmutación capa 2 (VLANs, VTP, EtherChannel, STP), enrut
 ## 2. GUÍA TÉCNICA
 
 Favor seguir los pasos de la [guía técnica](./Ejemplo%20Practico%20Semana%208.pdf) de este mismo directorio.
-Y realizar los cambios en el archivo `Topologia_Redes.pkt` ya que este no ha sido configurado, es solamente la topología.
 
 ## 3. PRUEBAS Y DEMOSTRACIÓN
 
