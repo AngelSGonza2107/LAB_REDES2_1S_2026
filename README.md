@@ -25,9 +25,10 @@ Durante el laboratorio se trabajan temas como:
 
 #### Enlaces varios
 
-1. [Diagrama de flujo para la resolución de proyectos](/assets/Diagrama%20para%20la%20resolución%20de%20proyectos.png)
-2. [Tabla CIDR](/assets/Tabla_CIDR.png)
-3. [Calculadora FLSM/VLSM](https://arcadio.gq/index.html)
+1. [Canal de Youtube del laboratorio del curso (ECYS)](https://www.youtube.com/@ECYS_RedesDeComputadoras2/videos)
+2. [Diagrama de flujo para la resolución de proyectos](/assets/Diagrama%20para%20la%20resolución%20de%20proyectos.png)
+3. [Tabla CIDR](/assets/Tabla_CIDR.png)
+4. [Calculadora FLSM/VLSM](https://arcadio.gq/index.html)
 
 ---
 
