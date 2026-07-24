@@ -1,5 +1,7 @@
 # Configuración Etherchannel
 
+> Enlace a la grabación de la clase: [https://youtu.be/dCErPq916zs](https://youtu.be/dCErPq916zs)
+
 ## 1. EtherChannel con LACP
 
 **Protocolo:** LACP (Link Aggregation Control Protocol)
