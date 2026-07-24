@@ -1,5 +1,7 @@
 # GUÍA PRÁCTICA — Laboratorio de Redes 2
 
+> Enlace a la grabación de la clase: [https://youtu.be/Tx77DHNDgEI](https://youtu.be/Tx77DHNDgEI)
+
 ## Cisco Packet Tracer
 
 **Protocolos:** DHCP • HSRP/VRRP • DNS • HTTP  
