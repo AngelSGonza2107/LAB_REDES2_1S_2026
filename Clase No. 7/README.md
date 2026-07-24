@@ -1,5 +1,7 @@
 # GUÍA PRÁCTICA — Laboratorio BGP
 
+> Enlace a la grabación de la clase: [https://youtu.be/y32-Umo_Lus](https://youtu.be/y32-Umo_Lus)
+
 ## 1. TOPOLOGÍA Y DISPOSITIVOS
 
 La topología simula la interconexión de tres Sistemas Autónomos (AS 100, AS 200, AS 300) mediante BGP como protocolo de enrutamiento exterior. Cada AS utiliza un IGP diferente internamente (OSPF, EIGRP, RIPv2), complementado con redundancia HSRP, agregación EtherChannel y conectividad WiFi.
