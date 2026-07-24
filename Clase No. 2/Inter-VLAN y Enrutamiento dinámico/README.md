@@ -1,3 +1,5 @@
+> Enlace a la grabación de la clase: [https://youtu.be/XmTFBfPhJfE](https://youtu.be/XmTFBfPhJfE)
+
 ## Configuración VTP utilizada
 
 - Domain: lab2
