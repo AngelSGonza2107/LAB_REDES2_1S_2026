@@ -2,6 +2,8 @@
 
 > Por defecto el protocolo STP estará activo en los switches, pero este estará habilitado en **modo PVST**. Si necesitamos que sea Rapid PVST debemos asignarlo **manualmente** en cada switch de la red local.
 
+> Enlace a la grabación de la clase: [https://youtu.be/Rv8waNnwbbU](https://youtu.be/Rv8waNnwbbU)
+
 ## SW1_STP (Port Security - Mode Protect & Restrict)
 
 ```
