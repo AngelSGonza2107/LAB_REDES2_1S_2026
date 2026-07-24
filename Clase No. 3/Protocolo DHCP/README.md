@@ -1,5 +1,7 @@
 # Protocolo DHCP
 
+> Enlace a la grabación de la clase: [https://youtu.be/8ytQCHU4rNY](https://youtu.be/8ytQCHU4rNY)
+
 ### MS1
 
 ```bash
