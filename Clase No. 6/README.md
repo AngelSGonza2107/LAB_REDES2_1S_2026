@@ -1,5 +1,7 @@
 # GUÍA PRÁCTICA — Laboratorio de Redes 2
 
+> Enlace a la grabación de la clase: [https://youtu.be/WG2aM4qWyKI](https://youtu.be/WG2aM4qWyKI)
+
 **Protocolos:** DNS • HTTP • Redes Inalámbricas
 
 ## 1. TOPOLOGÍA Y DISPOSITIVOS
